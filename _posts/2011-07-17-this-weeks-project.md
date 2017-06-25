@@ -1,0 +1,7 @@
+---
+layout: post
+title: This Week's Project
+---
+For those of you who are following along (which I can't imagine is too many at the moment), you may have noticed that I did not, in fact, release a new project to play with this week. That is due to the fact that this next project is one that will take a few weeks to complete, and will probably undergo some upgrades in the weeks following. That said, this project is also significantly bigger and should offer a bit more lasting enjoyment.
+
+Each week I plan on updating everyone on my progress of the week, and as things get further along, updates on when I think it will be ready to go. This week, there is not a lot to report on. I won't be revealing quite yet what it is I'm working on (unless you're friends with me on Facebook, in which case you may have already seen) so it'll be a week or two before I get too detailed. However, I will say that over the course of this week, I nailed down specifics and ideas for what the site is, what it will contain, and have started to map and prioritize features. I plan to make it fully CSS3 compatible, but I also plan on making it compatible for all users of modern browsers (IE7+). If I can work in some fun new technologies, I certainly will, but I want to focus on getting everything working well. Also, the major function that I would like to use is not yet supported by browsers, so it is a bit of a hindrance at the moment.
