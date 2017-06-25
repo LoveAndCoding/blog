@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post Mortem: JavaScript Custom Object Types
+title: Post Mortem - JavaScript Custom Object Types
 ---
 Another revived post from my old blog.
 

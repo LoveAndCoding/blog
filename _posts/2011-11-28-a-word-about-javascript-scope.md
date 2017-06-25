@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post Mortem:A word about JavaScript Scope
+title: Post Mortem - A word about JavaScript Scope
 ---
 This is a post from my old blog. I've seen that this still gets hits on occasion, so I thought I'd bring it back from the archives.
 
