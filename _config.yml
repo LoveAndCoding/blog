@@ -17,11 +17,11 @@ avatar: https://imgineme.com/images/ShirtAndTie.svg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: andrew.hushbeck@imgineme.com
-  github: ktsashes
+  email: blog@imgineme.com
+  github: LoveAndCoding
   rss: rss # just type anything here for a working RSS icon
   twitter: ktashes
-  stackoverflow: users/422184/ktash # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/422184/loveandcoding # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
